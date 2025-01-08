@@ -1,7 +1,7 @@
 # MHS-Data-mining
 
 
-#INTRODUCTION
+# INTRODUCTION
 
 Maternal health is a critical aspect of women's well-being during pregnancy, childbirth, and the
 postpartum period. Tragically, in 2017, approximately 295,000 women lost their lives due to pregnancyrelated complications. The primary causes of these maternal deaths were attributed to issues like
