@@ -19,4 +19,4 @@ can develop more targeted and effective interventions to ensure safer pregnancie
 experiences for women around the world. This work holds the potential to save lives and make a
 meaningful impact on maternal health outcomes globally.
 
-![image.png](https://drive.google.com/file/d/1eW2xyWIl4zzjiuQOIsDneHfLVTmlsN2I/view?usp=sharing)
+![image.png](https://github.com/MoyinLord/MHS-Data-mining/blob/1565f2ffaf32c122c9dc0138cfe6fe85754a211d/MHS.png)
