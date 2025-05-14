@@ -18,3 +18,5 @@ maternal health care. By understanding the factors that influence blood pressure
 can develop more targeted and effective interventions to ensure safer pregnancies and childbirth
 experiences for women around the world. This work holds the potential to save lives and make a
 meaningful impact on maternal health outcomes globally.
+
+![image.png](https://drive.google.com/file/d/1eW2xyWIl4zzjiuQOIsDneHfLVTmlsN2I/view?usp=sharing)
